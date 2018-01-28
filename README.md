@@ -1,6 +1,8 @@
 Learning-Markdown (Markdown 入门参考)
 ====
 
+> 本开源书 forked from [Markdown 入门参考](https://github.com/LearnShare/Learning-Markdown)，作者为 [LearnShare](https://github.com/LearnShare)，欢迎大家 star 原作者的 [repo](https://github.com/LearnShare/Learning-Markdown)，以便获得最新更新，谢谢！
+
 >[第一版备份在这里](https://github.com/LearnShare/Learning-Markdown/tree/v1)
 
 [Code on Github](https://github.com/LearnShare/Learning-Markdown/tree/v2)
