@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Learning-Markdown (Markdown 入门参考)
 ====
 
