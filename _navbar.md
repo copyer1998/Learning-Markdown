@@ -4,5 +4,4 @@
 - 配置
   * [配置项](/configuration.md)
   * [主题](/themes.md)
-  * [:100:](themes.md)
 
